@@ -17,7 +17,6 @@ class ManagerApp extends StatelessWidget {
     return GetMaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-
         primarySwatch: Colors.teal,
       ),
       home: LoginScreen(),
